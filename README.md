@@ -65,4 +65,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
     </picture> 
   </a>
+  <a href="mailto:lucasguilhermeab02@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="32" height="32" alt="Gmail"/>
+  </a>
 </p>
