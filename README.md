@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Guilherme👋
 
-![image](https://github.com/user-attachments/assets/3ae6c0c3-b06a-4b67-ae77-6d3414117cde)
+<img src="https://github.com/user-attachments/assets/3ae6c0c3-b06a-4b67-ae77-6d3414117cde" alt="image" width="100%"/>
 
 ## About me
 
