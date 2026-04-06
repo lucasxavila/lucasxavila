@@ -7,7 +7,6 @@
 - 📍 I'm living in Brazil, MG.
 - 🎓 I'm studying Computer Science at UNIBH.
 - 💻 I'm interested in an internship or job offer.
-- 📚 I'm learning C# and DevOps at Rocketseat.
 
 ## Skills
 
